@@ -1,3 +1,5 @@
+# Name: Kirandeep Kaur
+# Student ID: 90541113119
 # Frontend Mentor - News Homepage Solution
 This is a solution to the News homepage challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 # The Challenge
