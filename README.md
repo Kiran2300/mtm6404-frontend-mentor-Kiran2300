@@ -8,10 +8,11 @@ The goal was to create a dynamic, accessible news homepage where users can:
 
 Experience a responsive layout that adjusts seamlessly across various screen sizes.
 View hover and focus states on all interactive elements for an engaging UI experience.
-Toggle between light and dark modes, enhancing accessibility and personalization.
+Toggle between light and dark modes, enhancing accessibility and personalization. <b>
 
 # Screenshots
-(Insert your screenshots here, showcasing both light and dark mode interfaces, as well as mobile and desktop views)
+![image](https://github.com/user-attachments/assets/ce999755-3626-48ab-bea0-e1e32d8279c1) <b>
+![image](https://github.com/user-attachments/assets/2e1e2153-a76e-4271-bebf-7f9020d564aa) <b>
 
 # Development Process
 Technologies Used
